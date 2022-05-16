@@ -1,0 +1,15 @@
+.painel{
+    border-radius:10px;
+    margin:30px auto;
+    background-color:white;
+    padding:10px 60px;
+    padding-bottom:50px;
+}
+
+.painel select{
+    margin-right: 20px;
+}
+
+.painel p{
+    
+}
